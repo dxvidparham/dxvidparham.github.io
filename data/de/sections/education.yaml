@@ -1,4 +1,3 @@
-# section information
 section:
   name: Ausbildung
   id: education
@@ -10,32 +9,31 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Msc.Eng. in Autonome Systeme
-  icon: fa-graduation-cap
-  timeframe: 2020-2022
-  institution:
-    name: Technische Universtät Dänemark
-    url: "https://www.dtu.dk/english/"
-    logo: /images/sections/education/dtu.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
+  - name: "Msc.Eng. in Autonome Systeme"
+    icon: fa-graduation-cap
+    timeframe: "2020-2022"
+    institution:
+      name: Technische Universtät Dänemark
+      url: "https://www.dtu.dk/english/"
+      logo: /images/sections/education/dtu.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/university.jpg
+    customSections:
+      - name: Beschreibung
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      - name: Abschlussarbeit
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-  customSections:
-    - name: Beschreibung
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Abschlussarbeit
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - name: B.Eng. in Internet der Dinge
+    icon: fa-graduation-cap
+    timeframe: 2015-2020
+    institution:
+      name: Hochschule Aalen
+      url: "https://www.hs-aalen.de/"
+      logo: /images/sections/education/aalen.png
 
-- name: B.Eng. in Internet der Dinge
-  icon: fa-graduation-cap
-  timeframe: 2015-2020
-  institution:
-    name: Hochschule Aalen
-    url: "https://www.hs-aalen.de/"
-    logo: /images/sections/education/aalen.png
-
-  customSections:
-    - name: Beschreibung
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - name: Abschlussarbeit
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    customSections:
+      - name: Beschreibung
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      - name: Abschlussarbeit
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
