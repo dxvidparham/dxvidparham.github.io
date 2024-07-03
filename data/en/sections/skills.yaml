@@ -5,7 +5,7 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  # Can optionally hide the title in sections
+  # Can optionally hide the title in sectionss
   # hideTitle: true
 
 # Your Skills.
