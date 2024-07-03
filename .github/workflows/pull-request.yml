@@ -9,26 +9,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    # checkout to the commit that has been pushed
-    - uses: actions/checkout@v4.1.1
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Setup Node
-      uses: actions/setup-node@v4
-      with:
-        node-version: 18
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.4.0'
 
-    - name: Install node modules
-      run: npm install
+      - name: Install node modules
+        run: npm install
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3.0.0
-      with:
-        hugo-version: 'latest'
-        extended: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.128.1'
+          extended: true
 
-    - name: Build
-      run: |
-        hugo --minify
+      - name: Build
+        run: |
+          hugo --minify
 
 
   lighthouse-check:
