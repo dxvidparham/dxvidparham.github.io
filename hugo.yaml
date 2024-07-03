@@ -65,11 +65,11 @@ params:
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
     main: /images/author/david.jpg
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    inverted: /images/author/david.jpg
+    favicon: /images/author/david.jpg
 
   # GitHub repo of your site
-  gitRepo: https://github.com/dxvidparham/dxvidparham.github.io.git
+  gitRepo: https://github.com/dxvidparham/dxvidparham.github.io
   gitBranch: main
 
   # Configure the number of section title visible in the top navbar
