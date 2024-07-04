@@ -11,7 +11,7 @@ section:
 degrees:
   - name: "Msc.Eng. in Autonomous Systems"
     icon: fa-graduation-cap
-    timeframe: "08/2020 - 10/2022"
+    timeframe: "2020-2022"
     institution:
       name: Technical University of Denmark
       url: "https://www.dtu.dk/english/"
@@ -21,10 +21,10 @@ degrees:
     customSections:  # (optional)
       - name: Description
         content: >
-          Das Studienprogramm in autonomen Systemen betont das Entwerfen und Bereitstellen intelligenter
-          Systeme, die autonom arbeiten. Es umfasst Robotik, künstliche Intelligenz, Sensorsysteme und
-          gewährleistet Sicherheit und Zuverlässigkeit. Damit bereitet es Studierende auf Karrieren in den
-          Bereichen autonomes Fahren, industrielle Automatisierung und verwandte Felder vor.
+          The study program in autonomous systems emphasizes designing and deploying intelligent
+          systems that operate autonomously. It covers robotics, artificial intelligence, sensor
+          networks, and ensures safety and reliability, preparing students for careers in
+          autonomous vehicles, industrial automation, and related fields.
 
       - name: Thesis
         content: >
@@ -37,7 +37,7 @@ degrees:
 
   - name: "B.Eng. in Internet of Things"
     icon: fa-graduation-cap
-    timeframe: "09/2015 - 02/2020"
+    timeframe: "2015-2020"
     institution:
       name: University of Applied Sciences Aalen
       url: "https://www.hs-aalen.de/en/facilities/131"

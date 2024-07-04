@@ -20,9 +20,22 @@ degrees:
       # darkLogo: /images/sections/education/university.jpg
     customSections:
       - name: Beschreibung
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          Das Studienprogramm in autonomen Systemen betont das Entwerfen und Bereitstellen intelligenter
+          Systeme, die autonom arbeiten. Es umfasst Robotik, künstliche Intelligenz, Sensorsysteme und
+          gewährleistet Sicherheit und Zuverlässigkeit. Damit bereitet es Studierende auf Karrieren in den
+          Bereichen autonomes Fahren, industrielle Automatisierung und verwandte Felder vor.
+  
       - name: Abschlussarbeit
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          Meine Masterarbeit konzentrierte sich auf die Weiterentwicklung der autonomen Außennavigation
+          unter Verwendung innovativer datengetriebener Methoden. Durch den Einsatz von Technologien wie
+          Lightweight OpenPose und ST-GCN haben wir eine Echtzeit-Analyse von Videostreams erreicht. 
+          Unsere Arbeit umfasste die erfolgreiche Implementierung und Prüfung, was die Machbarkeit in 
+          realen Szenarien demonstrierte. Zusätzlich haben wir unser System durch Blickschätzung und 
+          Näherungsmessalgorithmen verbessert, um die Situationswahrnehmung und Entscheidungsfähigkeiten 
+          von Robotern zu stärken.
+
 
   - name: B.Eng. in Internet der Dinge
     icon: fa-graduation-cap
@@ -34,6 +47,16 @@ degrees:
 
     customSections:
       - name: Beschreibung
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          Das Studienprogramm im Internet der Dinge (IoT) konzentriert sich auf die Entwicklung von
+          Fähigkeiten zur Gestaltung und Implementierung vernetzter Systeme, die Sensoren, Aktuatoren und
+          Kommunikationstechnologien nutzen. Es umfasst die IoT-Architektur, Datenanalyse, Sicherheitsaspekte
+          und bereitet Studierende auf Karrieren in den Bereichen intelligente Geräte, Infrastrukturmanagement
+          und innovative IoT-Anwendungen vor.
       - name: Abschlussarbeit
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          In diesem wissenschaftlichen Forschungsprojekt habe ich fortschrittliche Techniken, einschließlich
+          Generative Adversarial Networks (GAN), verwendet, um realistische synthetische Bilder zu erstellen.
+          Dieser Ansatz zielte darauf ab, ein begrenztes Trainingsdatenset durch die Generierung
+          zusätzlicher Datenpunkte zu ergänzen, um die Zuverlässigkeit nachfolgender Modelle zu verbessern,
+          während eine hohe Klassifikationsgenauigkeit beibehalten wurde.
