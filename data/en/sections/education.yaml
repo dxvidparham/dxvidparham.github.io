@@ -20,9 +20,20 @@ degrees:
       # darkLogo: /images/sections/education/university.jpg
     customSections:  # (optional)
       - name: Description
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          Das Studienprogramm in autonomen Systemen betont das Entwerfen und Bereitstellen intelligenter
+          Systeme, die autonom arbeiten. Es umfasst Robotik, künstliche Intelligenz, Sensorsysteme und
+          gewährleistet Sicherheit und Zuverlässigkeit. Damit bereitet es Studierende auf Karrieren in den
+          Bereichen autonomes Fahren, industrielle Automatisierung und verwandte Felder vor.
+
       - name: Thesis
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          My master's thesis focused on advancing autonomous outdoor navigation using innovative
+          data-driven methodologies. By leveraging technologies like Lightweight OpenPose and
+          ST-GCN, we achieved real-time analysis of video streams. Our work included successful
+          implementation and testing, demonstrating feasibility in real-world scenarios.
+          Additionally, we enhanced our system with gaze estimation and proximity measurement
+          algorithms to improve robots' situational awareness and decision-making capabilities.
 
   - name: "B.Eng. in Internet of Things"
     icon: fa-graduation-cap
@@ -33,6 +44,16 @@ degrees:
       logo: /images/sections/education/aalen.png
     customSections:  # (optional)
       - name: Description
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          The study program in Internet of Things (IoT) focuses on developing skills to design
+          and implement interconnected systems that leverage sensors, actuators, and communication
+          technologies. It covers IoT architecture, data analytics, security considerations,
+          and prepares students for careers in smart devices, infrastructure management,
+          and innovative IoT applications.
       - name: Thesis
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        content: >
+          In this scientific research project, I utilized advanced techniques, including
+          Generative Adversarial Networks (GAN), to create realistic synthetic images.
+          This approach aimed to supplement a limited training dataset by generating additional
+          data points, enhancing the reliability of subsequent models while maintaining
+          high classification accuracy.

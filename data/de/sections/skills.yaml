@@ -30,6 +30,7 @@ skills:
     summary: >
       Als grundlegendes Werkzeug in meinem Arsenal spielt OpenCV eine entscheidende
       Rolle in meinen Bildverarbeitungsprojekten.
+      url: https://opencv.org/
 
   - name: "Modalities"
     logo: "/images/sections/skills/modalities.png"
@@ -37,7 +38,7 @@ skills:
       Umfangreiche Erfahrung im Umgang mit verschiedenen Datenmodalitäten von
       2D-Bildern und 3D-Punktwolken bis hin zu volumetrischen Daten im Bereich
       der Computer Vision und des Deep Learning.
-    url: ""
+    url: /files/modalities.png
 
   - name: "Docker"
     logo: "/images/sections/skills/docker.png"
@@ -60,6 +61,7 @@ skills:
       Ich habe die gesamte MLOps-Pipeline durchlaufen, angefangen bei der Datenvorbereitung
       über das Bereitstellen und Skalieren von Machine-Learning-Modellen bis hin zur
       Verbesserung meiner Fähigkeiten bei der Operationalisierung von KI-Lösungen.
+    url: https://ml-ops.org/
 
   - name: "Linux"
     logo: "images/sections/skills/linux.png"
@@ -67,9 +69,11 @@ skills:
       In der Lage, sowohl lokale als auch Remote-Operationen über verschiedene
       Linux-Distributionen hinweg durchzuführen, einschließlich Ubuntu, Debian,
       Arch, Gentoo und openSUSE.
+    url: https://www.linux.org
 
   - name: "VS-Codium"
     logo: "images/sections/skills/codium.png"
     summary: >
       In der Wahl der Open-Source-Variante von VS Code, VS-Codium, entspricht genau
       meiner Vorliebe für saubere und effiziente Code-Schreiberfahrungen.
+    url: https://vscodium.com/
